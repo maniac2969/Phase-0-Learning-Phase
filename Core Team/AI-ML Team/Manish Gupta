@@ -1,0 +1,11 @@
+git clone https://github.com/maniac2969/Phase-0-Learning-Phase.git
+cd Phase-0-Learning-Phase
+cd "Core Team/AI-ML Team"
+mkdir Manish Gupta
+cd Manish Gupta
+echo "Hello, this is Manish Gupta" > README.md
+git add .
+git commit -m "Added my folder Manish Gupta under AI-ML Team"
+git push origin main
+
+
